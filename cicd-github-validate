@@ -1,0 +1,18 @@
+
+✓ main CI workflow · 22577287720
+Triggered via push about 16 minutes ago
+
+JOBS
+✓ build in 19s (ID 65400043771)
+  ✓ Set up job
+  ✓ Initialize containers
+  ✓ Checkout
+  ✓ Install dependencies
+  ✓ Lint with flake8
+  ✓ Run unit tests with nose
+  ✓ Post Checkout
+  ✓ Stop containers
+  ✓ Complete job
+
+For more information about a job, try: gh run view --job=<job-id>
+View this run on GitHub: https://github.com/arnaudk-fr/ci-cd-final-project/actions/runs/22577287720

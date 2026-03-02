@@ -1,3 +1,4 @@
+(venv) theia:ci-cd-final-project$ gh run view 22577287720 --verbose
 
 ✓ main CI workflow · 22577287720
 Triggered via push about 16 minutes ago
